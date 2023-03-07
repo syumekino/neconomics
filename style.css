@@ -24,7 +24,7 @@ table {
 }
 .site-title {
   width: 109px;
-  line-height: 1px;
+  line-height: 5px;
   margin: 0 auto 36px auto;
 }
 .site-title a {
@@ -79,8 +79,8 @@ flex-shrink: 0;
   margin-right: 60px;
 }
 #item .item-info p {
-  margin-bottom: 30px;
-  line-height: 1.9;
+  margin-bottom: 40px;
+  line-height: 3;
 }
 /*
 「display: flex;」と「align-items: center;」で、
